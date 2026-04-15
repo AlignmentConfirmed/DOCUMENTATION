@@ -2,6 +2,10 @@
 
 # AlignmentConfirmed — Semantic Alignment Between Humans and AI
 
+## The Thesis
+
+The next step in AI is not faster inference. It is dimensional convergence — from guessing one meaning to resolving all meanings simultaneously.
+
 ## What "Alignment Confirmed" Means
 
 This is not a claim that AI is aligned. It is a claim that

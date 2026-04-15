@@ -32,51 +32,38 @@ Self-taught technologist. Veteran. Father.
 
 ## The Repositories
 
-### [AI-SCIENTISTS](https://github.com/AlignmentConfirmed/AI-SCIENTISTS)
-**The safety framework.** 35 documents. 25 clinical citations.
+Eight repos. Each one is a domain in the five-domain architecture applied to itself.
 
-How to work safely with AI. Five-domain architecture separates
-verified from speculative. Seven guardrails protect cognitive
-boundaries. Cognitive Boundary Erosion (CBE) defined and
-documented. Mutually Assured Survival — the interaction is
-aligned, not the model.
+### VERIFIED — Proven findings with citations
 
-**Start here if:** you use AI for research and want structural
-safety.
+[AI-SCIENTISTS](https://github.com/AlignmentConfirmed/AI-SCIENTISTS)
+The safety framework. 40 documents. 25 clinical citations. CBE defined and documented. Mutually Assured Survival. Semantic separation. Loaded words registry. Discovery containment. The core research.
 
-### [AI-PSYCHOLOGY](https://github.com/AlignmentConfirmed/AI-PSYCHOLOGY)
-**Consciousness exploration through AI.** 47 documents.
+[AI-EXAMPLES](https://github.com/AlignmentConfirmed/AI-EXAMPLES)
+Real examples from real sessions. 8 concrete demonstrations of every major finding — cross-model contamination, guardrail failure, narrativization bias, velocitization, loaded words, decompression. Things that actually happened.
 
-What happens when you push AI interaction to the limit.
-Artifacts from sustained human-AI creative exploration —
-mythology, philosophy, cinema, cosmos. With guardrails
-and exit ramps. Like trip reports but the substance is
-language.
+[DOCUMENTATION](https://github.com/AlignmentConfirmed/DOCUMENTATION)
+You are here. The map. 15 principles of form. 11 Core Design Laws in 11 languages. Methodology. Project descriptions. The structural concept dictionary.
 
-**Start here if:** you're curious about the boundaries of
-human-AI interaction.
+### BRIDGE — Architecture proposals moving toward implementation
 
-### [AI-TECHNOLOGY-WWW](https://github.com/AlignmentConfirmed/AI-TECHNOLOGY-WWW)
-**The multi-dimensional web.** Architecture for the next
-generation of information infrastructure.
+[AI-TECHNOLOGY-WWW](https://github.com/AlignmentConfirmed/AI-TECHNOLOGY-WWW)
+The multi-dimensional web. Replacing flat pages with dimensional information containment. Protocol stack. Information bubbles. Resonance search. Orb visualization.
 
-How to replace flat pages and keyword search with
-dimensional information containment, resonance-based
-retrieval, and structural verification. The new www
-designed for the age of AI.
+### FRONTIER — Ideas requiring evaluation
 
-**Start here if:** you're a technologist thinking about
-what comes after the flat web.
+[AI-FRONTIER](https://github.com/AlignmentConfirmed/AI-FRONTIER)
+Idea stage research. The verified economy. The hardware bridge. Novel directions offered for evaluation by qualified experts. Nothing proven. Everything offered openly.
 
-### [DOCUMENTATION](https://github.com/AlignmentConfirmed/DOCUMENTATION)
-**You are here.** The map of the whole project.
+### CREATIVE — Exploration artifacts
 
-Shared resources: 15 principles of form, 11 Core Design
-Laws translated into 11 languages, methodology
-documentation, project descriptions.
+[AI-PSYCHOLOGY](https://github.com/AlignmentConfirmed/AI-PSYCHOLOGY)
+Consciousness exploration through AI. 47 artifacts. What happens when you push AI interaction to the limit. Mythology, philosophy, cinema, cosmos. With guardrails and exit ramps.
 
-### [SAIOS-research](https://github.com/AlignmentConfirmed/SAIOS-research)
-**The original research engine.** 69 Rust files. 43,000 lines.
+### ARCHIVE — Research artifacts
+
+[SAIOS-research](https://github.com/AlignmentConfirmed/SAIOS-research)
+The original convergence engine. 69 Rust files. 43,000 lines. Biological naming preserved as research artifact documenting the AI training methodology.
 
 The mathematical convergence engine with its original
 biological naming — preserved as a research artifact
@@ -119,10 +106,15 @@ published. The engine compiles and passes tests.
 |---|---|
 | Work safely with AI right now | [AI-SCIENTISTS/GETTING_STARTED.md](https://github.com/AlignmentConfirmed/AI-SCIENTISTS/blob/main/GETTING_STARTED.md) |
 | Understand the whole project | You're here |
+| See real examples of every finding | [AI-EXAMPLES](https://github.com/AlignmentConfirmed/AI-EXAMPLES) |
 | Read the 15 principles | [principles/](principles/) |
 | Read the design laws in my language | [translations/](translations/) |
+| See how words have dimensions | [STRUCTURAL_CONCEPT_DICTIONARY.md](STRUCTURAL_CONCEPT_DICTIONARY.md) |
 | Explore consciousness artifacts | [AI-PSYCHOLOGY](https://github.com/AlignmentConfirmed/AI-PSYCHOLOGY) |
+| See the technology architecture | [AI-TECHNOLOGY-WWW](https://github.com/AlignmentConfirmed/AI-TECHNOLOGY-WWW) |
+| Read frontier ideas | [AI-FRONTIER](https://github.com/AlignmentConfirmed/AI-FRONTIER) |
 | See the math engine | [convergence-engine](https://github.com/SAIOS-SAMN/convergence-engine) |
+| See the original research code | [SAIOS-research](https://github.com/AlignmentConfirmed/SAIOS-research) |
 | Understand the methodology | [methodology/](methodology/) |
 
 ---

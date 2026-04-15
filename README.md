@@ -4,7 +4,7 @@
 
 ## The Thesis
 
-The next step in AI is not faster inference. It is dimensional convergence — from guessing one meaning to resolving all meanings simultaneously.
+The next step in AI is not faster inference. It is dimensional convergence — from guessing one meaning to resolving all meanings simultaneously. But convergence without structural containment is dangerous. The convergence engine and the governance architecture ship together. Neither works safely without the other.
 
 ## What "Alignment Confirmed" Means
 

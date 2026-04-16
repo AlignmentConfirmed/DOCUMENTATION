@@ -117,10 +117,12 @@ under cognitive load is not who they are
 (TONE_INFERENCE.md).
 
 Biological vocabulary activates pathways machine vocabulary
-cannot. The AI must learn what a human IS before it can
-safely interact with one. The training requires language
-heavy enough to encode irreversibility, vulnerability,
-mortality, and care (WHY_BIOLOGICAL_LANGUAGE.md).
+cannot. Safe human-AI interaction requires the AI to
+understand what a human IS — not as a machine metaphor but
+as a fundamentally different kind of entity. The training
+methodology uses language heavy enough to encode
+irreversibility, vulnerability, mortality, and care
+(WHY_BIOLOGICAL_LANGUAGE.md).
 
 Cross-model contamination propagates fiction as fact through
 the human bridge between AI systems. No current protocol

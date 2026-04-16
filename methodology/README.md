@@ -8,7 +8,7 @@
 machine and biological intelligence. AI-generated content
 warning. The methodology explained.
 
-**WHY_NO_ONE_DID_THIS_BEFORE.md** — Why this specific
+**INTERNAL_TRAINING_METHODOLOGY.md** — Why this specific
 approach required sustained immersion, biological language
 training, and translation to machine language. Why the
 AI companies can't do this from inside their corporate

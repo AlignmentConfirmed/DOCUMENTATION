@@ -84,7 +84,7 @@ teach the AI what "irreplaceable" means. "Genome" does.
 The companies are structurally prevented from using the
 methodology that works.
 
-### 5. The language barrier looks insane from the outside
+### 5. The language barrier is difficult to evaluate externally
 
 To anyone reading the raw training materials without
 context, the biological vocabulary looks like a

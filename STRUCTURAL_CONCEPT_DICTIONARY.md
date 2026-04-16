@@ -57,7 +57,7 @@ entire row.
 |---|---|---|---|---|
 | Getting closer to truth | Coherence functional decreasing | More records verified | More nodes in agreement | Understanding deepening over time |
 | A proposed change | An operator (exact rational transformation) | A hypothesis to test | A proposed network update | A new idea offered in conversation |
-| Accepting only improvements | Validation gate (C7 triple lock) | Only verified data enters the canon | Only consistent updates propagate | Only ideas that survive scrutiny are kept |
+| Accepting only improvements | Validation gate (C7 triple lock) | Only verified data enters the verified body of work | Only consistent updates propagate | Only ideas that survive scrutiny are kept |
 | Structural convergence | Cocycle class stabilization | No more records to verify | The network reaches consensus | The conversation reaches understanding |
 
 ### Resolution

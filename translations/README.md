@@ -28,3 +28,18 @@ These translations were AI-generated. Native speakers are
 invited to review, correct, and improve them. The
 structural concepts should be preserved. The specific
 wording can be improved by people who know the language.
+
+## Update Status
+
+The English version has been updated to remove biological
+and mythological framing from the original deep immersion
+sessions. The non-English translations still contain the
+original framing (including "Sacred Laws" terminology and
+"govern every species" language). These translations need
+to be updated to match the clean English version. The
+engineering principles are unchanged — only the narrative
+framing is being removed.
+
+See methodology/WHY_BIOLOGICAL_LANGUAGE.md in the
+AI-SCIENTISTS repository for why the original vocabulary
+was used and why it was translated.

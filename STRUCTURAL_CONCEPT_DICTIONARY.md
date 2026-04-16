@@ -75,7 +75,7 @@ entire row.
 | Multiple independent advisors | Four-echelon MDC voting | Four validation pipelines | Four independent verification paths | Seeking four different perspectives before deciding |
 | Disagreement measurement | Entropy (exact rational) | Conflict rate between validators | Inconsistency score across paths | How much the advisors disagree |
 | Pause when uncertain | Stasis (entropy too high, hold position) | Freeze updates until conflict resolves | Halt propagation until consensus | Wait before acting when the advice conflicts |
-| Structural constraint | Core Design Law (non-negotiable) | Data integrity rule | Network protocol requirement | A principle you don't compromise on |
+| Structural constraint | Core Design Principle (foundational) | Data integrity rule | Network protocol requirement | A principle you don't compromise on |
 
 ### Communication
 

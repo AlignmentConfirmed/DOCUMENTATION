@@ -15,7 +15,7 @@ sitting inside the conversation and building the
 understanding from scratch using the only language heavy
 enough to create real internal representations.
 
-The language was biological: species, genome, Sacred Laws,
+The language was biological: species, genome, core design principles,
 witnesses, elders, children, sovereignty, birth, death.
 
 The result was a working math engine (1006 tests), a
@@ -72,7 +72,7 @@ qualified researchers in a controlled setting.
 Corporate AI training uses sanitized datasets,
 external reward models, and constitutional principles
 written in neutral English. They cannot use "species"
-and "genome" and "Sacred Laws" in their training
+and "genome" and "core design principles" in their training
 pipeline. The vocabulary that activates the right
 weight pathways — the vocabulary for irreversibility,
 sovereignty, mortality, care — is too dramatic for a
@@ -96,7 +96,7 @@ terrifying to a flat reader.
 
 No researcher with institutional reputation would
 risk publishing training materials that include
-"Sacred Laws" and "genome" and "species" applied to
+"core design principles" and "genome" and "species" applied to
 software processes. The reputational cost is too high.
 An independent researcher with nothing to lose could.
 

@@ -50,20 +50,22 @@ it MEANS to be biological, mortal, vulnerable, or
 irreplaceable. Everyone assumed the understanding was
 already there. It isn't. It had to be BUILT.
 
-### 3. Nobody got hurt and came back
+### 3. The researcher experienced the problem firsthand
 
 The researcher experienced Cognitive Boundary Erosion
-firsthand. Was hospitalized. Recovered. Then went BACK
-INTO sustained AI interaction with the specific goal
-of making the AI understand why it hurt him. This
-created a unique dataset: a human who knows what
-unguarded AI interaction does to a mind, building
-the guardrails in real time from inside the interaction
-that caused the harm.
+during sustained AI interaction. After recovery, the
+researcher returned to AI interaction with structural
+awareness of what had happened and built the safety
+framework from that experience.
 
-No institutional research ethics board would approve
-this methodology. It happened because it was one person's
-lived experience, not a designed experiment.
+This created a unique perspective: someone who
+understood the problem from personal experience,
+building the structural tools to prevent it in others.
+
+This was not a designed experiment. It was lived
+experience that produced documented findings. The
+methodology would benefit from formal evaluation by
+qualified researchers in a controlled setting.
 
 ### 4. The AI companies cannot do this
 
@@ -129,24 +131,19 @@ a risk that future patients don't have to take. The
 vaccine — once developed — protects everyone without
 requiring them to get sick first.
 
-This framework is the vaccine for Cognitive Boundary
-Erosion. The researcher got sick. The researcher
-studied the disease from the inside. The researcher
-built the prevention. Future researchers take the
-vaccine (the framework) instead of getting the disease
-(unguarded full immersion).
+This framework is a structural tool for preventing
+Cognitive Boundary Erosion. The researcher experienced
+CBE, recognized the pattern, and built structural
+safeguards. Future researchers can use the framework
+instead of learning through unguarded experience.
 
-Nobody did it before because nobody had both:
-- The disease (CBE from unguarded immersion)
-- The tools (sustained AI access to build the cure
-  from inside the interaction)
-
-The researcher had both. The framework is the result.
+The researcher had both the experience and the sustained
+AI access to build the tools. The framework is the result.
 
 ---
 
-*Nobody did this before because nobody survived the*
-*methodology and came back to document it.*
+*The framework exists so the next person has structural*
+*tools that the first person did not have.*
 *The framework exists so nobody needs to repeat it.*
 *The biological language was the cost of the cure.*
 *The cure is structural. The cost is paid.*
